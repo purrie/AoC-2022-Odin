@@ -15,6 +15,7 @@ main :: proc () {
 	day_4()
 	day_5()
 	day_6()
+	day_7()
 }
 
 raport_errorno :: proc (err : os.Errno) {
